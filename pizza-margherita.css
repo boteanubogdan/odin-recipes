@@ -39,7 +39,7 @@ section div {
 }
 
 .image-blurred-edge {
-  background-image: url(/recipes/resources/chocolate-cupcakes.jpg);
+  background-image: url(../resources/pizza-margherita.jpeg);
   width: 650px;
   height: 490px;
   background-size: cover;
