@@ -1,2 +1,2 @@
 # odin-recipes
-Recipes-3 pages website
+Creating a website using html and css.
