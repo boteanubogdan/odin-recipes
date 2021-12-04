@@ -7,7 +7,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap");
 
 body {
-  background-image: url(../resources/bg-image2.jpeg);
+  background-image: url(resources/bg-image2.jpeg);
   background-size: cover;
   background-position: center;
   font-family: "Playfair Display", serif;
@@ -39,7 +39,7 @@ section div {
 }
 
 .image-blurred-edge {
-  background-image: url(../resources/pizza-margherita.jpeg);
+  background-image: url(resources/pizza-margherita.jpeg);
   width: 650px;
   height: 490px;
   background-size: cover;
